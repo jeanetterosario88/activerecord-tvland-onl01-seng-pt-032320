@@ -7,5 +7,5 @@ def actors_list
     eachcharacter.actor.full_name
   end
 end
-  
+
 end
